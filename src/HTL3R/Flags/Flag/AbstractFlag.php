@@ -6,7 +6,7 @@
  * Time: 11:59
  */
 
-namespace HTL3R\Flags\Flags;
+namespace HTL3R\Flags\Flag;
 
 abstract class AbstractFlag{
     protected $name;

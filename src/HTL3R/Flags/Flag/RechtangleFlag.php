@@ -6,7 +6,7 @@
  * Time: 12:11
  */
 
-namespace HTL3R\Flags\Flags;
+namespace HTL3R\Flags\Flag;
 
 use HTL3R\Flags\interfaces\FlagInterface as FlagInterface;
 

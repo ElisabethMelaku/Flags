@@ -5,7 +5,7 @@
  * Date: 04/12/2017
  * Time: 12:12
  */
-namespace HTL3R\Flags\Flags;
+namespace HTL3R\Flags\Flag;
 
 use HTL3R\Flags\interfaces\FlagInterface as FlagInterface;
 

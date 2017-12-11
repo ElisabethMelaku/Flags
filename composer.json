@@ -1,0 +1,21 @@
+{
+    "name": "htl3r/flagpackage",
+    "description": "Flagpackages for use with the 4ai demo",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Elisabeth Melaku",
+            "email": "4138@htl.rennweg.at"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "HTL3R\\Flags\\": "src/HTL3R/Flags/"
+        }
+    },
+
+
+"require": {}
+}
